@@ -1,0 +1,13 @@
+.cta {
+  padding: 4px 48px;
+  background-color: #ff216e;
+  color: white;
+  font-size: 24px;
+  border: none;
+  border-radius: 16px;
+  transition: 0.3s;
+}
+
+.cta:hover {
+  background-color: #272262;
+}
